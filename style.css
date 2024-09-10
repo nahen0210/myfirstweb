@@ -17,7 +17,7 @@ p{
 
 h3{
     font-family: 'Times New Roman', Times, serif;
-    color: rgb(166, 23, 71);
+    color: rgb(233, 224, 233);
     font-size: large;
     font-weight: bold;
 
@@ -30,7 +30,7 @@ dt{
     text-decoration: underline;
 }
 dd{
-    color: rgb(66, 209, 44);
+    color: rgb(233, 224, 233);
     font-size: larger;
 }
 #i1{
