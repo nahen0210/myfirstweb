@@ -1,0 +1,73 @@
+
+h1{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmvLUfmhTKiTufkpy8cLsiapcVVdw2HMPQBQ&s);
+    color:rgb(20, 1, 20);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 400px;
+    text-align: center;
+    background-size: width=100px;
+}
+p{
+    color: rgb(237, 231, 222);
+    
+}
+#a2{
+    color: aquamarine;
+}
+
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(166, 23, 71);
+    font-size: large;
+    font-weight: bold;
+
+}
+dt{
+    color: rgb(195, 174, 220);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    text-shadow: rgb(32, 24, 139);
+    text-decoration: underline;
+}
+dd{
+    color: rgb(66, 209, 44);
+    font-size: larger;
+}
+#i1{
+    float: right;
+}
+#i2{
+    float: left;
+}
+#i3{
+    float: right;
+}
+#w1{
+    background-color: blueviolet;
+    font-weight: bold;
+}
+#gi{
+    border: solid;
+    background-color: pink;
+}
+#y1{
+    float: right;
+}
+
+p{
+    background-image: url(dataran\ tinggi.webp);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-attachment: fixed;
+    background-size: cover;
+}
+ol{
+    background-image: url(https://www.astronauts.id/blog/wp-content/uploads/2023/03/Ragam-Jenis-Kopi-di-Indonesia-yang-Mendunia-1200x900.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+body{
+    background-color: pink;
+}
